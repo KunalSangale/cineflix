@@ -1,0 +1,5 @@
+API Key (v3 auth)
+9f430f1f27311eba3b8bfa54e2bd0d97
+
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5ZjQzMGYxZjI3MzExZWJhM2I4YmZhNTRlMmJkMGQ5NyIsInN1YiI6IjYwZGM2OGExNmM0NDljMDA3ZmJmZmE3NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.qBj7q0zbp4jQGSCpoKur7mGRhMnmt-QKtcRoAz4rldU
